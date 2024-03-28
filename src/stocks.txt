@@ -1,0 +1,5 @@
+emu $2.3
+dtw $12.1
+ypsi $0.2
+MSc $4.0
+prayH $7.0
